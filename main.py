@@ -6,6 +6,7 @@ to /output/entry.txt. Pure stdlib; writes only to MAKEFUN_OUTPUT_DIR.
 
 import os
 
+# Writes one 107-char line to /output/entry.txt.
 LINE = "Weekly status: 100% of tasks complete. I have redefined 'complete' to include tasks I have not started yet."
 
 
